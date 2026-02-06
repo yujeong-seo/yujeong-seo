@@ -1,4 +1,4 @@
-```
+```markdown
 **Hi 👋 I am Design Engineer Yujeong Seo**
 
 ☆ From South Korea
