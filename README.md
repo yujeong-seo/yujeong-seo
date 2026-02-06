@@ -1,16 +1,14 @@
-## Hi there 👋
+```
+**Hi 👋 I am Design Engineer Yujeong Seo**
 
-<!--
-**yujeong-seo/yujeong-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☆ From South Korea
+☆ Currently in London, UK
+☆ Final year Design Engineering student in Imperial College London
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<center>
+<a href="www.linkedin.com/in/yujeongseo03"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yujeongseo321@gmail.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</center>
+</div>
